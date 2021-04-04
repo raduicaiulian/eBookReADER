@@ -1,5 +1,5 @@
 ﻿# eBookReADER
- Is an app that read tor b electronic books, the formats accepted are:
+ Is an app that read your electronic books, the formats accepted are:
 
       - pdf
       - docx
