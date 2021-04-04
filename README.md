@@ -22,4 +22,6 @@ Optional tasks:
   - add suport for both EN and RO languages(curently only RO is suported);  
   - give user posibilyty to skip to a specific point into audio file;
   
+Here is a screenshoot of app GUI:
+
 ![alt text](eBookReader_demo.jpg)
