@@ -13,12 +13,12 @@ Os interaction si made trough socket creation used to talk to convert server
 
 In order to run it you need to folow this steps:
  
- -you need to set GOOGLE_APPLICATION_CREDENTIALS environment variable to path of <file>.json which contains you private key for google TTS
- -after that you need to start the convert_server.py (require python 3.x in order to run)
- -run the eBookReader.exe from eBookReader/bin/Debug/netcoreapp3.1 (if you hav any error make sure that ip variable from eBookReader/Form1.cs:50 has the ip adress of the server where convert_server.py is runing, by default the ip is set to "192.168.1.243")
+    -you need to set GOOGLE_APPLICATION_CREDENTIALS environment variable to path of <file>.json which contains you private key for google TTS
+    -after that you need to start the convert_server.py (require python 3.x in order to run)
+    -run the eBookReader.exe from eBookReader/bin/Debug/netcoreapp3.1 (if you hav any error make sure that ip variable from eBookReader/Form1.cs:50 has the ip adress of the server where convert_server.py is runing, by default the ip is set to "192.168.1.243")
 
 TO DO:
- 
+
       - add more error handling;
       - add save audio books to internal storage feature;
       - optimize both convert server and client;
