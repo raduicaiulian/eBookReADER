@@ -18,10 +18,10 @@ In order to run it you need to folow this steps:
  -run the eBookReader.exe from eBookReader/bin/Debug/netcoreapp3.1 (if you hav any error make sure that ip variable from eBookReader/Form1.cs:50 has the ip adress of the server where convert_server.py is runing, by default the ip is set to "192.168.1.243")
 
 TO DO:
-
-  - add more error handling;
-  - add save audio books to internal storage feature;
-  - optimize both convert server and client;
+ 
+      - add more error handling;
+      - add save audio books to internal storage feature;
+      - optimize both convert server and client;
 
 Optional tasks:
 
